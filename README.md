@@ -1,3 +1,5 @@
+> ⚠️ **本仓库已废弃**：内容已并入 [agent-deploy](https://github.com/hpsks416/agent-deploy) 的 skills/github-ready-packager/ 子目录，请以 agent-deploy 为准。本仓库保留仅供历史归档。
+
 # github-ready-packager
 
 把一个已有本地项目收敛成独立、干净、可直接 `git push` 或交给 GitHub 的项目。默认只准备“独立目录 + zip”，不擅自提交。
@@ -28,3 +30,4 @@
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
